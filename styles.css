@@ -25,6 +25,10 @@ textarea{
   white-space: pre-wrap;
 }
 
+
+
+
+
 .time-block{
   text-align: center;
   border-radius: 15px;
@@ -33,7 +37,7 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;;
+  border-top: 1px solid white;
 }
 
 .hour {
@@ -68,4 +72,8 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+#time {
+  padding: 5px;
 }
